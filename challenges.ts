@@ -27,3 +27,13 @@ Have map return a new array filled with numbers that are the result of using the
 */
 //console.log(map([1, 2, 3], addTwo));
 
+
+/*
+cd /Users/lars/Documents/Backendcourse/   
+mkdir folderName_5.0
+touch backend_assignment.4.0.ts  npm init -y
+npm i -D typescript ts-node
+npx tsc —init
+
+npx ts-node backend_assignment.4.0 
+
